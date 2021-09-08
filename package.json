@@ -1,7 +1,7 @@
 {
-    "name": "genedens-bio",
+    "name": "rollup-app",
     "version": "1.0.0",
-    "description": "Landing page Genedens Bio",
+    "description": "A simple rollup application ready to be coded",
     "main": "rollup.config.js",
     "scripts": {
         "preinstall": "npm i -g imagemin",
@@ -12,7 +12,7 @@
         "dev": "rollup -c --watch"
     },
     "keywords": [],
-    "author": "France",
+    "author": "ACr0no",
     "license": "ISC",
     "devDependencies": {
         "@rollup/plugin-commonjs": "^20.0.0",
