@@ -19,6 +19,8 @@ The application use scss which will be compile from assets/scss/main.scss to bui
 
 Bootstrap 5 is included from node with partial _theme.scss. For customize the your website, just edit the _theme.scss
 
+When you want to iclude images, please create a folder call "img" <b>in the root of the project</b>. All the images presents in the folder will be optimized in production version.
+
 For development version. Every changes will be watched in real time on localhost (js, scss and html).
 
 ```
