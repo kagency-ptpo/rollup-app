@@ -10,7 +10,7 @@ $ npm install
 For installing image minificator (imagemin)
 
 ```
-$ npm preinstall
+$ npm run preinstall
 
 ```
 
